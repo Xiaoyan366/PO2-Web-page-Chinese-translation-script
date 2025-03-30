@@ -1,4 +1,3 @@
-{
   // 网站内容
   "Home": "首页",
   "Hot Topics": "热门话题",
@@ -124,7 +123,7 @@
   "Augment": "增幅",
   "Regal": "富豪",
   "Exalt": "崇高",
-  "Uncheck "Show Recommended Gems" for Supports": "取消勾选'显示建议宝石'",
+  "Uncheck 'Show Recommended Gems' for Supports": "取消勾选'显示建议宝石'",
   "Twink Leveling Basics": "小号速刷基础",
   "Alternative: A": "替代: 任意",
   "Alternative: Any": "替代: 任意",
@@ -3193,4 +3192,3 @@
   "World of Warcraft": "魔兽世界",
   "Throne And Liberty": "王权与自由",
   "Destiny 2": "命运2",
-} 
